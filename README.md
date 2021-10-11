@@ -88,6 +88,8 @@
 ## 애용하는 스택
 * Python, Javascript, Django, Node, Firebase, AWS, MongoDB, MySQL, Git(github, gitlab)
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paullabkorea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ## Connect with me  
 <div align="center">
@@ -101,10 +103,3 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paullabkorea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
