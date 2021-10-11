@@ -3,25 +3,20 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">안녕하세요. 주식회사 위니브 대표, 제주코딩베이스캠프의 운영진 이호준입니다. 저는 주로 full-stack 개발, 정보보안, 빅데이터 분석 프로젝트 경험과 관련 학위, 자격증을 보유하고 있어요. 경찰청, 제주대학교, 컨퍼런스 등에서 발표 및 강의를 하고 있기도 합니다.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 저는 주식회사 [위니브](http://paullab.co.kr)에서 근무하고 있습니다.
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 제 강의는 모두 [인프런](https://www.inflearn.com/users/@jejucoding)에 올라가 있어요.  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ 컨택을 원하시면 paul-lab@naver.com으로 연락주세요. 회사 공용메일입니다.  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Hojun's Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
